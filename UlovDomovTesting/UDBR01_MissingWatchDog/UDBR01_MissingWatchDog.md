@@ -18,7 +18,7 @@ Low – The user is not informed about a key feature (watchdog creation) when it
 1. A valid search has been performed from the main page with **sale** offer type selected (including valid address, property type, and offer type).
 
 ## Steps to Reproduce
-1. Go to [www.houmy.cz](https://www.houmy.cz) and log in to the application.
+1. Go to [www.ulovdomov.cz](https://www.ulovdomov.cz) and log in to the application.
 2. Use the search bar to enter valid parameters with **sale offer type** selected (e.g., city, offer type, property type), and perform a search.
 3. Observe the listings sidebar on the search results page.
 
